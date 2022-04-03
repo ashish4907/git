@@ -1,0 +1,28 @@
+git --version
+git config --global user.name
+git config --global user.email
+code .
+git init
+ls
+ls -lart
+pwd
+touch index.html
+git status
+git add -A
+git commit -m "index file added"
+git checkout contact.html
+git diff
+git commit -a -m
+git rm waste.html
+git rm --cached waste.html
+git log 
+git log -p -1
+git status -s
+clear
+touch .gitignore
+git branch
+git branch feature1
+git checkout feature1
+git merge feature1
+git push -u origin master
+git pull origin master
