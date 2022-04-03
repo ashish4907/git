@@ -24,5 +24,6 @@ git branch
 git branch feature1
 git checkout feature1
 git merge feature1
+git remote -v
 git push -u origin master
 git pull origin master
